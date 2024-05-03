@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+<text x="50%" y="50%" fill="blue" dominant-baseline="middle" text-anchor="middle">abc</text>
+<polygon points="150,50 125,150 175,150" fill="yellow" />
+</svg>
